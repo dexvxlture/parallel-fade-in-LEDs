@@ -1,6 +1,11 @@
-# RC LED circuit
-what this is:
-a basic simulation of an LED circuit that somewhat uses RC timing, by combining the power of the capacitors
-and the power of the resistors we were able to make a circuit with one battery, one switch
-but the same fade in speed, hope you enjoy
-please note this was made by a beginner not a professional.
+# Simple LED Sequencer Circuit
+
+This project is a basic analog LED sequencer using resistors, capacitors, a battery, and a switch. Three LEDs turn on one after another, then all fade out together when the capacitors discharge.
+
+### What it does
+LED 1 turns on first
+LED 2 turns on after a short delay
+LED 3 turns on after another delay
+Once all three are on, they gradually fade out at the same time
+
+The fade-out effect is created by the discharge of capacitors, which reduces the current smoothly instead of cutting it off
