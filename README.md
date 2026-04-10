@@ -19,4 +19,7 @@ The fade-out effect is created by the discharge of capacitors, which reduces the
 1 × Breadboard                                    and some jumper wires
 
 ### How it works
-sequential-led uses a parallel design, with 3 RC modules each for an LED, each one having the same capacity to match the fade at the end and diffrent resistor values. All this is powered by a standard 5V battery
+sequential-led uses a parallel design, with 3 RC modules each for an LED, each one having the same capacity to match the fade at the end and diffrent resistor values. All this is powered by a standard 5V battery.
+
+### How to use
+Import the circuit.txt file into falstad OR click **https://is.gd/HiFhCh** to view the circuit, Turn on the switch and watch the magic happens!
