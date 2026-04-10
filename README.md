@@ -16,4 +16,4 @@ The fade-out effect is created by the discharge of capacitors, which reduces the
 3 x Capacitors (for delay and fade effect)                                                          
 1 × Battery                                                                                        
 1 × Switch                                                                                         
-1 x Breadboard                                                                                     some jumper wires
+1 x Breadboard                                    and some jumper wires
