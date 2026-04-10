@@ -1,10 +1,1 @@
- i'm building an RC LED circuit because of hackclub's tutorial
-Today i have learned about capacitors, resistors, LEDs(light emitting diode) and how they work
-So i will be making an RC LED circuit exclusively from things i have learned 
-I spent the past hour and a half learning about it
-And i have been running into issues on Falstad circuit simulation, for example the capacitor might not work sometimes or the LED not turning on. But the good news is I found the issue and its smaller then i thought, I think its a glitch but its primarily the wires not working.
-![[Pasted image 20260404161704.png|262]]
-So now i have another issue, I have to figure out how to turn on 3 or 2 LEDs all by themselves using a capacitor at a different rate but parallel turning off points and I have no idea how i can possibly make that.
-After hours, of hard work and research i may not have made the perfect circuit but i have officially made a circuit that isnt aligned but fades with one another, and as a beginner i'm proud of myself for not using AI or any help from anyone other than my research, I am proud of what i made regardless and i seek more opportunity for growth in my knowledge
-![[20260404-2153-44.0705589.mp4]]https://falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEECsqYIiAzABwBMuA7AGw1G1IAsFAnF9o+6hAAjREXqoADiIRFsqAG4RRqALaZRAUwC0SFAD4AUFCigoAD0TsCUDuyhXsUCtgGwcgnPkI8fvvz1J5TwIUKAwlBDxQ+QATRCQeXH9k8QB6Q2NgaAsEZztbJxdC13hI1AikQjl0oxMAGQBRABFzS2sCvJt2EvcoFQB7RBiNGABDAFcAGzQtSY0YwQrBAHNe4V6VIXJI-BQazIB3Vtyizodi1FLqjJMQY5oafO6oB7s8y7Xg72SfwK-Q8KeaJxZCJH5+NI3LLHJA0KhdfJwi5uMpQCI0KoIfb1Zr3R4ImxI2wfVEDIYjCbTWbzRbxFZraRyPpbYJ7KFHHKw+GdV7Iq5YqF3HL8Aki94opnbPBVcHJP47EKoQE7YHxMGyniQ2rQnI6RgEvV83oRZyEAXaxotYVPOyG4kS1SDBDDMZTGZzBZQEBLL2rVHrUkshVs7UcxBioqG8X87HAMMIEUFEVUJkx9nHZOOJBMKApknXUN4m0vfF5h2x+O8lP2axltOFnLnavne31w4wnPVqup9wVjNvIpco1lPucpGdIcUIg0fPm9tj7nTl5URcz8vpnKdLenaez0eIOGr4pOXfrhuUHc0Y8OPdQ+THLj6rTsbmMeHPqgkpCMVAHfl9UYzCCBAMQLedEEfKAPyg6sP1vc8EC0WCXxgxwKDfeDwMQ6t0PfZtv0wkx4yQxx2G-a8CLPLCznIs4CEI4AMGOc5DSbHsRw3Sg3yglCWJfBj4z4+EWMotsTH6KANAAO0sJUJHDHoEDMChJHcG5MgkKBgKZDBtgoDE52MExNOAlSwilLwCC4JgiGYEhY1SfooQk6TegweSE0U5TVOQBB1OMrS3L0gzsQ0wLciVCyZRsuzDOARznMkmSEE-MIPP4ElvKgDyZ384ATKCygQrygqIvMr4rJilg4oSgx4vACBDCAA
-this circuit took roughly 3 hours and a couple more from research.
+
